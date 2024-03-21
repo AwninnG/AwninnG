@@ -1,6 +1,6 @@
 <h1 align="center">Hey! Nice to see you.</h1>
 <h3 align="center">I'm a Back-End/.net Developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I3MnpzNXdsY21ybGhoOXh0djFpY2sxaTdzbzExaXpvemNpbDh0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I3MnpzNXdsY21ybGhoOXh0djFpY2sxaTdzbzExaXpvemNpbDh0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awninng&label=Profile%20views&color=0e75b6&style=flat" alt="awninng" /> </p>
 
