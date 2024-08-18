@@ -6,9 +6,9 @@
 
 - 📝 New projects are on the way **!**
 
-- 🌱 I'm currently trying to learn everything, but my priority is **C#,MSSql,JS**
+- 🌱 I'm currently trying to learn everything, but my priority is **C#,MSSql,Python**
 
-- 📫 How to reach me? **enesaydinnn@gmail.com**
+- 📫 How to reach me? **r.enesaydinnn@gmail.com**
 
 - ⚡ I'm still very new to the programming world, but my interest and skill level are high. **I'll continue to improve myself!**
 
