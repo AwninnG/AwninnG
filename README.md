@@ -15,8 +15,8 @@
 
 <p>⚡ I love taking on new challenges and improving my code.</p>
 
-<p>📫 Reach me at <strong>r.enesaydinnn@gmail.com</strong> for collaborations or just to chat about tech! <br>
-Also, feel free to hit me up on Discord: <strong>awninng</strong></p>
+<p>📫 Reach me for collaborations or to chat about tech at: <strong><a href="mailto:r.enesaydinnn@gmail.com">r.enesaydinnn@gmail.com</a></strong></p>
+<p>💬 You can also find me on Discord: <strong>awninng</strong></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
