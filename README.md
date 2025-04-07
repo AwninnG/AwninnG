@@ -1,22 +1,19 @@
-<h1 align="center">Hey, I'm enes</h1>
+<h1 align="center">Hey, I'm Enes</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awninng&label=Profile%20views&color=0e75b6&style=flat" alt="awninng" /> </p>
 
 - 🌱 Currently learning and working with both frontend and backend technologies. Always exploring new tools to improve my skills.
 
 - 🛠️ Tech I use:
- <p align="left">
-  <span style="margin-right: 20px;">Frontend: HTML5, CSS3, JavaScript, React</span>
-  <span style="margin-right: 20px;">Backend: ASP.NET Core, Node.js</span>
-  <span>Databases: SQL Server, MySQL, MongoDB</span>
-</p>
+  <p align="left">
+    <span style="margin-right: 20px;">Frontend: HTML5, CSS3, JavaScript, React</span>
+    <span style="margin-right: 20px;">Backend: ASP.NET Core, Node.js</span>
+    <span>Databases: SQL Server, MySQL, MongoDB</span>
+  </p>
 
 - ⚡ I love taking on new challenges and improving my code.
 
-- 📫 Reach me at **r.enesaydinnn@gmail.com** for collaborations or just to chat about tech!
-Also, feel free to hit me up on Discord: awninng
-
+- 📫 Reach me at <strong>r.enesaydinnn@gmail.com</strong> for collaborations or just to chat about tech!
+  Also, feel free to hit me up on Discord: <strong>awninng</strong>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -53,4 +50,3 @@ Also, feel free to hit me up on Discord: awninng
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awninng&show_icons=true&theme=dark&locale=en" alt="awninng" /></p>
-
