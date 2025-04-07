@@ -53,7 +53,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=awninng&theme=dark" alt="GitHub Streak Stats" width="350" height="150""/>
-  
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=awninng&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" width="350" height="150"/>
 </p>
 
