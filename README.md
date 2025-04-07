@@ -1,9 +1,6 @@
 <h1 align="center">Hey, I'm Enes</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-<h1 align="center">Hey, I'm Enes</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
-
 <p>🌱 Currently learning and working with both frontend and backend technologies. Always exploring new tools to improve my skills.</p>
 
 <p>🛠️ <strong>Tech I use:</strong></p>
@@ -17,6 +14,9 @@
 
 <p>📫 Reach me for collaborations or to chat about tech at: <strong><a href="mailto:r.enesaydinnn@gmail.com">r.enesaydinnn@gmail.com</a></strong></p>
 <p>💬 You can also find me on Discord: <strong>awninng</strong></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=awninng&theme=dark" alt="GitHub Streak Stats"></p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
