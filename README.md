@@ -1,19 +1,18 @@
 <h1 align="center">Hey, I'm Enes</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-- 🌱 Currently learning and working with both frontend and backend technologies. Always exploring new tools to improve my skills.
-
-- 🛠️ Tech I use:
-  <p align="left">
-    <span style="margin-right: 20px;">Frontend: HTML5, CSS3, JavaScript, React</span>
-    <span style="margin-right: 20px;">Backend: ASP.NET Core, Node.js</span>
-    <span>Databases: SQL Server, MySQL, MongoDB</span>
-  </p>
-
-- ⚡ I love taking on new challenges and improving my code.
-
-- 📫 Reach me at <strong>r.enesaydinnn@gmail.com</strong> for collaborations or just to chat about tech!
-  Also, feel free to hit me up on Discord: <strong>awninng</strong>
+<ul>
+  <li>🌱 Currently learning and working with both frontend and backend technologies. Always exploring new tools to improve my skills.</li>
+  <li>🛠️ Tech I use:
+    <p align="left">
+      <span style="margin-right: 20px;">Frontend: HTML5, CSS3, JavaScript, React</span>
+      <span style="margin-right: 20px;">Backend: ASP.NET Core, Node.js</span>
+      <span>Databases: SQL Server, MySQL, MongoDB</span>
+    </p>
+  </li>
+  <li>⚡ I love taking on new challenges and improving my code.</li>
+  <li>📫 Reach me at <strong>r.enesaydinnn@gmail.com</strong> for collaborations or just to chat about tech! Also, feel free to hit me up on Discord: <strong>awninng</strong></li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
