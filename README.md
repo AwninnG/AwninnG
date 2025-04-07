@@ -4,15 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awninng&label=Profile%20views&color=0e75b6&style=flat" alt="awninng" /> </p>
 
 - 🌱 Currently learning and working with both frontend and backend technologies. Always exploring new tools to improve my skills.
-- 
+
 - 🛠️ Tech I use:
-<br>
-  .Frontend: HTML5, CSS3, JavaScript, React
-<br>
-  .Backend: ASP.NET Core, Node.js
-<br>
-  .Databases: SQL Server, MySQL, MongoDB
-  
+ <p align="left">
+  <span style="margin-right: 20px;">Frontend: HTML5, CSS3, JavaScript, React</span>
+  <span style="margin-right: 20px;">Backend: ASP.NET Core, Node.js</span>
+  <span>Databases: SQL Server, MySQL, MongoDB</span>
+</p>
+
 - ⚡ I love taking on new challenges and improving my code.
 
 - 📫 Reach me at **r.enesaydinnn@gmail.com** for collaborations or just to chat about tech!
