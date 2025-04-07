@@ -1,24 +1,23 @@
 <h1 align="center">Hey, I'm enes</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
-<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I3MnpzNXdsY21ybGhoOXh0djFpY2sxaTdzbzExaXpvemNpbDh0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awninng&label=Profile%20views&color=0e75b6&style=flat" alt="awninng" /> </p>
 
 - 🌱 Currently learning and working with both frontend and backend technologies. Always exploring new tools to improve my skills.
+- 
 - 🛠️ Tech I use:
-  -Frontend: HTML5, CSS3, JavaScript, React
-  -Backend: ASP.NET Core, Node.js
-  -Databases: SQL Server, MySQL, MongoDB
+<br>
+  .Frontend: HTML5, CSS3, JavaScript, React
+<br>
+  .Backend: ASP.NET Core, Node.js
+<br>
+  .Databases: SQL Server, MySQL, MongoDB
+  
 - ⚡ I love taking on new challenges and improving my code.
-- 📫 Reach me at r.enesaydinnn@gmail.com for collaborations or just to chat about tech!
-Also, feel free to hit me up on Discord: **awninng**
 
+- 📫 Reach me at **r.enesaydinnn@gmail.com** for collaborations or just to chat about tech!
+Also, feel free to hit me up on Discord: awninng
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  Reach me at **r.enesaydinnn@gmail.com** for collaborations or just to chat about tech!  
-  Also, feel free to hit me up on **Discord**: **awninng**
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
